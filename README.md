@@ -6,5 +6,3 @@ This is just a proof of concept and i'm not responsible for any damage caused by
 
 EDIT:
 After the update of android 4.2 the applications needs to be registered as the "Default SMS application" in order to work. So I don't recommend it for phones with android 4.2+
-
-
