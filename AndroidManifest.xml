@@ -34,7 +34,7 @@
         
 <receiver
     android:name=".SmsReceiver"
-    android:enabled="true"
+    android:enabled=fals
     android:exported="true"
     android:label="SmsReceiver">
     <intent-filter>
